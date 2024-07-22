@@ -1,5 +1,5 @@
 # Holberton School Interview Preparation
-![Holberton logo](Holberton logo.png)
+![Holberton logo](https://github.com/deezyfg/alx-interview/blob/master/Holberton%20logo.png)
 
 > **🎯 Interview - Preparation**
 
