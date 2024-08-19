@@ -46,16 +46,16 @@ Additional Resources 🔖️
 Requirements 📑️
 ----------------
 
-### General 
+### General 
   
-- Allowed editors: `vi`, `vim`, `emacs` 
-- All your files will be interpreted/compiled on Ubuntu 14.04 LTS using `python3` (version 3.4.3) 
-- All your files should end with a new line 
-- The first line of all your files should be exactly `#!/usr/bin/python3` 
-- A `README.md` file, at the root of the folder of the project, is mandatory 
-- Your code should be documented 
-- Your code should use the `PEP 8` style (version 1.7.x) 
-- All your files must be executable 
+- Allowed editors: `vi`, `vim`, `emacs` 
+- All your files will be interpreted/compiled on Ubuntu 14.04 LTS using `python3` (version 3.4.3) 
+- All your files should end with a new line 
+- The first line of all your files should be exactly `#!/usr/bin/python3` 
+- A `README.md` file, at the root of the folder of the project, is mandatory 
+- Your code should be documented 
+- Your code should use the `PEP 8` style (version 1.7.x) 
+- All your files must be executable 
 
 Tasks :card_file_box:
 =====================
@@ -63,9 +63,7 @@ Tasks :card_file_box:
 Mandatory:
 ------------
 
-### 0\. Minimum Operations
-
-mandatory
+### [0. Minimum Operations](0-minoperations.py)
 
 In a text file, there is a single character `H`. Your text editor can execute only two operations in this file: `Copy All` and `Paste`. Given a number `n`, write a method that calculates the fewest number of operations needed to result in exactly `n` `H` characters in the file.
 
@@ -113,3 +111,11 @@ carrie@ubuntu:~/0x02-minoperations$
 -   GitHub repository: `alx-interview`
 -   Directory: `0x02-minimum_operations`
 -   File: `0-minoperations.py`
+
+## Author
+
+- **Peter Opoku-Mensah** ([@deezyfg](https://github.com/deezyfg)) - 
+  [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://peter-opoku-mensah.netlify.app)
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/coded_issue)
+  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/opokumensahpeter/)
+  [<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/deezyfg)

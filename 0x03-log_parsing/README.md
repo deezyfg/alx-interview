@@ -51,8 +51,7 @@ Additional Resources 🔖️
 Requirements 📑️
 ----------------
 
-### General 
-
+### General 
 
 -   Allowed editors: `vi`, `vim`, `emacs`
 -   All your files will be interpreted/compiled on Ubuntu 14.04 LTS using `python3` (version 3.4.3)
@@ -63,10 +62,13 @@ Requirements 📑️
 -   All your files must be executable
 -   The length of your files will be tested using `wc`
 
-Tasks
------
+Tasks :card_file_box:
+=====================
 
-### 0\. Log parsing
+Mandatory:
+------------
+
+### [0. Log parsing](0-stats.py)
 
 Write a script that reads `stdin` line by line and computes metrics:
 
