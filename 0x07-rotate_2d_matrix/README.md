@@ -59,7 +59,7 @@ By understanding these concepts and utilizing the provided resources, you will b
 Additional Resources 🔖️
 ------------------------
 
-- [Mock Technical Interview](https://www.youtube.com/watch?feature=shared&v=V8DGdPkBBxg)
+- [Mock Technical Interview](https://www.youtube.com/watch?feature=shared&v=yM9Xbi-MigE)
 
 Requirements
 ------------

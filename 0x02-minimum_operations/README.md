@@ -41,7 +41,7 @@ By studying these concepts and utilizing the resources provided, you will be equ
 Additional Resources 🔖️
 ------------------------
 
-- [Mock Technical Interview](https://www.youtube.com/watch?feature=shared&v=V8DGdPkBBxg)
+- [Mock Technical Interview](https://www.youtube.com/watch?v=h4i4kjwncoU)
 
 Requirements 📑️
 ----------------
